@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\""
+    "test": "jest index.test.js"
   },
   "devDependencies": {
     "jest": "^27.4.5"
